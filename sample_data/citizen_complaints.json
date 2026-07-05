@@ -1,0 +1,3694 @@
+{
+  "records": [
+    {
+      "date": "2026-06-15",
+      "area": "Lakeside",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "high",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Green Valley",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "critical",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Green Valley",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Harbor District",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "critical",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-31",
+      "area": "Harbor District",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-24",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-28",
+      "area": "Harbor District",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-17",
+      "area": "Oak Hill",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Midtown",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-01",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Green Valley",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-28",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "high",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-12",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "high",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "low",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-15",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-26",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "North Gate",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Old Town",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-15",
+      "area": "North Gate",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-10",
+      "area": "North Gate",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Lakeside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Harbor District",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "North Gate",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "North Gate",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-18",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-29",
+      "area": "Green Valley",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Harbor District",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "high",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-05",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Green Valley",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-15",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Escalated",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Midtown",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-15",
+      "area": "Lakeside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-23",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-04",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "high",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Old Town",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-17",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "critical",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-17",
+      "area": "Lakeside",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-05",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-22",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "North Gate",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Harbor District",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-10",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-22",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "high",
+      "status": "Escalated",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "North Gate",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Harbor District",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "critical",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Lakeside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "critical",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-17",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Escalated",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-05",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Green Valley",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-13",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Harbor District",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-17",
+      "area": "North Gate",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Oak Hill",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-10",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-05",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-15",
+      "area": "North Gate",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Oak Hill",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "high",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-15",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Lakeside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-29",
+      "area": "Lakeside",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-29",
+      "area": "North Gate",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "North Gate",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-12",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Green Valley",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Lakeside",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-17",
+      "area": "Lakeside",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "high",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "high",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-31",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-14",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-20",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-05",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-31",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "critical",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Oak Hill",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-21",
+      "area": "North Gate",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Oak Hill",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-08",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Harbor District",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "high",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Harbor District",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-29",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Harbor District",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-26",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-04",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "high",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Harbor District",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Midtown",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-26",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-26",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Harbor District",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "area": "Harbor District",
+      "category": "Roads",
+      "complaint_type": "Broken streetlight",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-24",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-25",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-25",
+      "area": "Midtown",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "North Gate",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-01",
+      "area": "Harbor District",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-26",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-17",
+      "area": "Oak Hill",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-26",
+      "area": "Green Valley",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "critical",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Midtown",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-15",
+      "area": "Green Valley",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "area": "North Gate",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-04",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "critical",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Lakeside",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "low",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Green Valley",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-29",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-25",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Harbor District",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-26",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "high",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-14",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-10",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-15",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-26",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-18",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Harbor District",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "North Gate",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Lakeside",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-25",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-06",
+      "area": "Midtown",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-14",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-15",
+      "area": "Oak Hill",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-10",
+      "area": "Green Valley",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-07",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "high",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-21",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-21",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Oak Hill",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Harbor District",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-24",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "North Gate",
+      "category": "Sanitation",
+      "complaint_type": "Stagnant water",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-21",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "critical",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-17",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Contaminated water",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Midtown",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-05-19",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Water Board",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-18",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-20",
+      "area": "Lakeside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-15",
+      "area": "North Gate",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-07-02",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "Old Town",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-22",
+      "area": "Harbor District",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-22",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-01",
+      "area": "Old Town",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Oak Hill",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-20",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-17",
+      "area": "Green Valley",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "low",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-18",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-14",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-03",
+      "area": "Midtown",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-23",
+      "area": "Lakeside",
+      "category": "Water Supply",
+      "complaint_type": "Leak",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-22",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Environment Cell",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Old Town",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-11",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "low",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-13",
+      "area": "Riverside",
+      "category": "Noise",
+      "complaint_type": "Loud construction",
+      "severity": "critical",
+      "status": "Escalated",
+      "department": "Environment Cell",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Green Valley",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "low",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-08",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Delayed collection",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-04",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "critical",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-14",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-17",
+      "area": "North Gate",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-05-14",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-10",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-27",
+      "area": "Green Valley",
+      "category": "Water Supply",
+      "complaint_type": "No supply",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-20",
+      "area": "Green Valley",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-30",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "critical",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-20",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "high",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-11",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Pothole",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Roads",
+      "complaint_type": "Damaged signage",
+      "severity": "critical",
+      "status": "Resolved",
+      "department": "Public Works",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-19",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Stray animals",
+      "severity": "low",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-07-03",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Public toilet issue",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-05-31",
+      "area": "Oak Hill",
+      "category": "Sanitation",
+      "complaint_type": "Blocked sewer",
+      "severity": "low",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-07-01",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Escalated",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-05-24",
+      "area": "Oak Hill",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Public Works",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-06-09",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Traffic noise",
+      "severity": "low",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-18",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Missed pickup",
+      "severity": "low",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Escalated after no response in 72 hours."
+    },
+    {
+      "date": "2026-06-16",
+      "area": "Riverside",
+      "category": "Sanitation",
+      "complaint_type": "Foul smell",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Sanitation Dept",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-28",
+      "area": "Midtown",
+      "category": "Roads",
+      "complaint_type": "Blocked drain",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Public Works",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Lakeside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-02",
+      "area": "Riverside",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "high",
+      "status": "Open",
+      "department": "Water Board",
+      "notes": "Third complaint from the same street."
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Oak Hill",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-10",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Late-night party",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Environment Cell",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-27",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Health Dept",
+      "notes": "Recurring issue during monsoon."
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Green Valley",
+      "category": "Public Health",
+      "complaint_type": "Open garbage",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-07-04",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    },
+    {
+      "date": "2026-06-28",
+      "area": "Old Town",
+      "category": "Noise",
+      "complaint_type": "Industrial noise",
+      "severity": "medium",
+      "status": "Open",
+      "department": "Environment Cell",
+      "notes": "Flagged by community volunteer."
+    },
+    {
+      "date": "2026-06-30",
+      "area": "North Gate",
+      "category": "Public Health",
+      "complaint_type": "Mosquito breeding",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Health Dept",
+      "notes": "Resident reported repeatedly this month."
+    },
+    {
+      "date": "2026-06-08",
+      "area": "Midtown",
+      "category": "Water Supply",
+      "complaint_type": "Low pressure",
+      "severity": "medium",
+      "status": "Resolved",
+      "department": "Water Board",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-06-29",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "high",
+      "status": "Resolved",
+      "department": "Sanitation Dept",
+      "notes": "Reported via city helpline."
+    },
+    {
+      "date": "2026-05-17",
+      "area": "Riverside",
+      "category": "Public Health",
+      "complaint_type": "Food safety",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Health Dept",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-16",
+      "area": "Riverside",
+      "category": "Waste Collection",
+      "complaint_type": "Overflowing bin",
+      "severity": "medium",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Photo evidence attached by citizen."
+    },
+    {
+      "date": "2026-06-12",
+      "area": "Old Town",
+      "category": "Waste Collection",
+      "complaint_type": "Illegal dumping",
+      "severity": "high",
+      "status": "In Progress",
+      "department": "Sanitation Dept",
+      "notes": "Affects a school zone nearby."
+    }
+  ]
+}

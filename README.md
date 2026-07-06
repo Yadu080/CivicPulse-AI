@@ -1,211 +1,210 @@
 # 🏙️ CivicPulse AI
 
-> **Community decision intelligence, powered by Gemini on Google Cloud.**
-> *Not just answers — better decisions.*
+> Community decision intelligence powered by Gemini on Google Cloud.  
+> *Not just answers, better decisions.*
 
-CivicPulse AI is a decision-intelligence dashboard that lets a city or community
-team ask natural-language questions about local data (citizen complaints,
-sanitation, water, roads, noise, public health) and instantly get **patterns,
-anomalies, a decision scoreboard, and an auto-generated action memo**.
+CivicPulse AI is a team-built decision intelligence dashboard for cities, communities, and operations teams. It helps users upload local service data, ask natural-language questions, detect emerging anomalies, and generate practical recommendations backed by structured analytics.
 
-It is **not** a generic chatbot. It computes real analytics in Python first, then
-uses a **small, low-cost Gemini model** (`gemini-2.5-flash-lite`) to explain the
-numbers and recommend concrete next steps — so the AI never hallucinates
-statistics.
+Rather than behaving like a generic chatbot, CivicPulse AI computes trends, hotspot areas, severity patterns, and anomaly signals in Python first, then uses Gemini to explain what matters and recommend next steps. The result is a lightweight product that turns community data into decision-ready insight.
 
----
+## Team
+This project was built as a collaborative team effort by:
 
-## ✨ What makes it stand out
+- Aadithya AR (Team Lead)
+- Yadunandan M Nimbalkar
+- Kenisha P
 
-| Feature | Description |
-|---|---|
-| 🧮 **Deterministic-first analytics** | Counts, weekly trends, severity mix & anomaly flags computed in Python — cheap, fast, reliable. |
-| 💬 **Natural-language Q&A** | Ask *"What should we prioritize this week?"* — grounded strictly in your data. |
-| 🚨 **Explainable anomaly detection** | Simple z-score thresholds (≥1.5σ) flag spikes by area, category & time. |
-| 🎯 **Decision Scoreboard** | Urgency · Impact · Confidence · Severity scores (0–100) tell teams what to act on. |
-| 📝 **One-click Executive Brief** | The wow feature: a downloadable, decision-ready city action memo from a single Gemini call. |
-| 🔍 **Explainability panel** | Plain-language reasoning behind every recommendation. |
-| 📥 **Multi-format ingest** | CSV, JSON, PDF text, or pasted text — with forgiving column auto-mapping. |
+Each contributor helped shape the product direction, implementation, and final prototype. The README, codebase, deployment flow, and product framing reflect a shared team effort.
 
----
+## What CivicPulse AI Does
 
-## 🏗️ Architecture
+- Accepts community datasets through CSV, JSON, PDF text, or pasted reports
+- Normalizes raw data into a consistent analysis-ready format
+- Computes deterministic analytics such as counts, trends, severity mix, and open-case rates
+- Flags anomalies using simple, explainable statistical thresholds
+- Lets users ask natural-language questions over the uploaded data
+- Generates executive-friendly summaries and action recommendations using Gemini
+- Produces a simple decision layer through urgency, impact, and confidence scoring
 
+## Why It Stands Out
+
+### Deterministic first
+The system does the heavy analytical work before any LLM call. This makes outputs cheaper, faster, and more trustworthy.
+
+### Decision-focused UX
+The dashboard is designed around action, not just conversation. Users can quickly understand:
+
+- what is happening
+- why it matters
+- where attention is needed
+- what should be done next
+
+### Low-cost cloud deployment
+The app runs on Cloud Run with a small Gemini model tier and scale-to-zero infrastructure, making it realistic for hackathons, pilots, and lightweight civic deployments.
+
+## Core Features
+
+- Natural-language analytics over local community data
+- Community Snapshot with top issue, hotspot area, and trend summary
+- Decision Scoreboard with urgency, impact, confidence, and severity
+- Explainable anomaly detection
+- One-click Executive Brief
+- Action recommendations grounded in computed analytics
+- Offline fallback mode when Gemini is unavailable
+
+## Architecture Overview
+
+```text
+User / Community Team
+        ↓
+Data Upload (CSV / JSON / PDF / text)
+        ↓
+data_loader.py
+        ↓
+analytics.py
+  - counts by area and category
+  - weekly trends
+  - severity distribution
+  - anomaly detection
+  - urgency / impact / confidence scores
+        ↓
+gemini_client.py + prompt_templates.py
+        ↓
+Streamlit Dashboard
+  - Overview
+  - Ask AI
+  - Anomalies
+  - Recommendations
+  - About
 ```
-┌──────────────┐   upload    ┌───────────────┐   structured   ┌──────────────────┐
-│  User / City │ ──────────▶ │ data_loader   │ ─────────────▶ │  analytics.py    │
-│  team        │  CSV/JSON/  │ (normalize)   │   JSON facts   │ counts · trends  │
-└──────────────┘  PDF/text   └───────────────┘                │ anomalies·scores │
-        ▲                                                      └────────┬─────────┘
-        │  decisions, memo, answers                                     │ analytics JSON
-        │                                                               ▼
-┌───────┴────────┐   report/JSON   ┌───────────────────┐   grounded    ┌──────────────┐
-│ Streamlit UI   │ ◀────────────── │ gemini_client.py  │ ◀──prompt───── │ prompt_      │
-│ dashboard      │                 │ (Gemini flash-lite)│               │ templates.py │
-└────────────────┘                 └───────────────────┘               └──────────────┘
-                                            │
-                              Vertex AI  ──OR──  Gemini Developer API
-```
 
-**Stack:** Streamlit · Python · Gemini (Vertex AI or Gemini API) · Cloud Run · `gcloud` CLI.
+**Stack:** Streamlit, Python, Gemini, Cloud Run, Cloud Build, Artifact Registry, `gcloud` CLI.
 
----
+## Repository Structure
 
-## 📁 Project structure
-
-```
+```text
 civicpulse-ai/
-├── app.py                  # Streamlit entry — dashboard UI (tabs, cards, charts)
+├── app.py
 ├── src/
-│   ├── data_loader.py      # CSV/JSON/PDF/text ingest + column normalization
-│   ├── analytics.py        # deterministic analytics: counts, trends, anomalies, scores
-│   ├── gemini_client.py    # reusable Gemini wrapper (retry + offline fallback)
-│   ├── prompt_templates.py # civic-analyst prompts (grounded, JSON output)
-│   └── utils.py            # shared helpers (column aliases, JSON extraction)
+│   ├── data_loader.py
+│   ├── analytics.py
+│   ├── gemini_client.py
+│   ├── prompt_templates.py
+│   └── utils.py
 ├── sample_data/
-│   ├── citizen_complaints.csv   # ~370 realistic rows (bundled demo)
+│   ├── citizen_complaints.csv
 │   ├── citizen_complaints.json
-│   └── generate_sample.py       # regenerate the dataset
+│   └── generate_sample.py
 ├── requirements.txt
-├── Dockerfile              # slim container for Cloud Run
-├── cloudbuild.yaml         # Cloud Build → Cloud Run pipeline
-├── deploy.sh               # one-command Cloud Run deploy
-├── setup_gcloud.sh         # enable APIs + auth via gcloud
+├── Dockerfile
+├── cloudbuild.yaml
+├── deploy.sh
+├── setup_gcloud.sh
 ├── .env.example
 └── README.md
 ```
 
----
-
-## 🚀 Quickstart (local, ~2 minutes)
+## Local Run
 
 ```bash
-# 1. Clone & enter
 git clone https://github.com/Yadu080/CivicPulse-AI.git
 cd civicpulse-ai
 
-# 2. (optional) virtualenv
-python -m venv .venv && source .venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 
-# 3. Install
 pip install -r requirements.txt
-
-# 4. Add a Gemini key (get one free at https://aistudio.google.com/apikey)
 cp .env.example .env
-#   then edit .env and set GEMINI_API_KEY=...
 
-# 5. Run
+# add GEMINI_API_KEY to .env if using Gemini Developer API
 streamlit run app.py
 ```
 
-Open http://localhost:8501 → click **⚡ Load demo dataset** → explore the tabs.
+Open `http://localhost:8501`, load the sample dataset, and explore the dashboard.
 
-> 💡 **No key? No problem.** The app runs fully with a built-in deterministic
-> fallback (analytics + rule-based brief). Add a key to unlock full Gemini
-> explanations and Q&A.
-
----
-
-## ☁️ Deploy to Google Cloud Run with `gcloud`
+## Google Cloud Deployment
 
 ### One-time setup
 
 ```bash
-# Authenticate and enable APIs (Cloud Run, Vertex AI, Cloud Build, Artifact Registry)
 gcloud auth login
 gcloud config set project YOUR_PROJECT_ID
 gcloud services enable run.googleapis.com aiplatform.googleapis.com \
-                       cloudbuild.googleapis.com artifactregistry.googleapis.com
+  cloudbuild.googleapis.com artifactregistry.googleapis.com
+```
 
-# …or just run the helper:
+Or run:
+
+```bash
 ./setup_gcloud.sh YOUR_PROJECT_ID us-central1
 ```
 
-### Deploy (Vertex AI backend — no API key needed)
+### Deploy with Vertex AI
 
 ```bash
 ./deploy.sh YOUR_PROJECT_ID us-central1
 ```
 
-### Deploy (Gemini Developer API key)
+### Deploy with Gemini API key
 
 ```bash
 export GEMINI_API_KEY=your_key_here
 ./deploy.sh YOUR_PROJECT_ID us-central1
 ```
 
-Under the hood `deploy.sh` runs:
+## Gemini Integration
 
-```bash
-gcloud run deploy civicpulse-ai \
-  --source . --region us-central1 --allow-unauthenticated \
-  --memory 512Mi --cpu 1 --min-instances 0 --max-instances 3 \
-  --set-env-vars GEMINI_MODEL=gemini-2.5-flash-lite,GOOGLE_GENAI_USE_VERTEXAI=true,...
-```
+- `src/gemini_client.py` handles Gemini setup, retries, backend selection, and fallback behavior
+- Default model: `gemini-2.5-flash-lite`
+- Prompts are grounded in structured analytics so the model does not invent numbers
 
-When it finishes it prints your **public URL** (e.g.
-`https://civicpulse-ai-xxxxxxxx-uc.a.run.app`).
+## Cost-Conscious Design
 
-> **Vertex AI note:** grant the Cloud Run service account the
-> `roles/aiplatform.user` role so it can call Gemini:
-> ```bash
-> PROJECT_NUMBER=$(gcloud projects describe YOUR_PROJECT_ID --format='value(projectNumber)')
-> gcloud projects add-iam-policy-binding YOUR_PROJECT_ID \
->   --member="serviceAccount:${PROJECT_NUMBER}-compute@developer.gserviceaccount.com" \
->   --role="roles/aiplatform.user"
-> ```
+- One Gemini call per meaningful action
+- Flash-lite model tier by default
+- No heavy database or always-on backend required
+- Cloud Run configured for scale-to-zero
+- Bundled sample data keeps demos simple and cheap
 
----
+## Sample Data
 
-## 🤖 Gemini integration
+The included demo dataset is a realistic citizen-complaints sample with fields such as:
 
-- **Wrapper:** `src/gemini_client.py` — auto-detects Vertex AI vs. Gemini API,
-  requests JSON output, retries transient errors twice, and falls back to a
-  deterministic offline report if the model is unreachable.
-- **Model:** `gemini-2.5-flash-lite` by default (smallest/cheapest tier). Override
-  with the `GEMINI_MODEL` env var.
-- **Grounding:** every prompt embeds the computed analytics JSON and instructs the
-  model to *use only the provided numbers* — see `src/prompt_templates.py`.
+- `date`
+- `area`
+- `category`
+- `complaint_type`
+- `severity`
+- `status`
+- `department`
+- `notes`
 
----
+It is designed to surface clear hotspots, a rising trend, and anomaly conditions for demo purposes.
 
-## 💰 Cost design
-
-- **One Gemini call per meaningful action** (brief / question), never per keystroke.
-- **Flash-lite model tier** — the cheapest Gemini option.
-- **Deterministic analytics in Python** do the heavy lifting for free.
-- **Local sample data** — no database, no Cloud Storage required.
-- **Cloud Run scale-to-zero** (`--min-instances 0`) → you pay ~nothing when idle.
-- Modest **512Mi / 1 CPU** container settings.
-
----
-
-## 📊 Sample dataset
-
-`sample_data/citizen_complaints.csv` (~370 rows over ~8 weeks) with columns:
-`date, area, category, complaint_type, severity, status, department, notes`.
-
-It contains a **persistent hotspot** (Riverside), a **rising trend**, and a
-**planted anomaly** (a Waste Collection surge in the final week) so the demo
-reliably shows trends, hotspots, anomalies, and actions. Regenerate with:
+To regenerate it:
 
 ```bash
 python sample_data/generate_sample.py
 ```
 
----
+## Troubleshooting
 
-## 🧪 Troubleshooting
-
-| Symptom | Fix |
+| Issue | What to check |
 |---|---|
-| "Gemini offline" banner | Set `GEMINI_API_KEY` in `.env`, or configure Vertex AI env vars. |
-| Vertex AI 403 on Cloud Run | Grant the runtime SA `roles/aiplatform.user` (see above). |
-| PDF has no text | Scanned PDFs need OCR; this app reads text-based PDFs only. |
-| Upload columns not recognized | Rename to `area`, `category`, `date`, etc. (aliases in `utils.py`). |
+| Gemini shows offline fallback | Set `GEMINI_API_KEY` or configure Vertex AI environment variables |
+| Vertex AI access fails on Cloud Run | Grant `roles/aiplatform.user` to the runtime service account |
+| Artifact Registry push fails | Ensure the build service account has `roles/artifactregistry.writer` |
+| Upload columns are not recognized | Rename fields to expected values such as `date`, `area`, `category`, `severity` |
+| PDF text does not extract | The current flow supports text-based PDFs, not scanned OCR-only files |
 
----
+## Contributors
 
-## 📄 License
+This repository represents a shared team effort by:
 
-MIT — free to use, adapt, and demo.
+- Aadithya AR (Team Lead)
+- Yadunandan M Nimbalkar
+- Kenisha P
+
+## License
+
+MIT
